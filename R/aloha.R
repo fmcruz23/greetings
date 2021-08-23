@@ -24,5 +24,3 @@ say_aloha <- function(name, color) {
     (print ("Please choose green or blue"))}
 
 }
-
-say_aloha("Shale", "red")
