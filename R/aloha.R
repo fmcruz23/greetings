@@ -21,6 +21,7 @@ say_aloha <- function(name, color) {
   } else if (color == "blue" | color == "Blue") {
     cat(crayon::bgBlue(message))
   } else {
-    (print ("Please choose green or blue"))}
+    print ("Please choose green or blue")}
 
 }
+
